@@ -1,0 +1,7 @@
+{
+  "host": "10.57.41.216",
+  "port": 3306,
+  "user": "root",
+  "password": "MobileDrive#01",
+  "charset": "utf8"
+}

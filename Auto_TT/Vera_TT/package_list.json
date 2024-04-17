@@ -1,0 +1,14 @@
+[
+  "com.stellantis.hvac.main",
+  "com.stellantis.minimalhvac.main",
+  "com.stellantis.panelwidgets.main",
+  "com.stellantis.settings.main",
+  "com.stellantis.devicemanager.main",
+  "com.stellantis.rvc.main",
+  "com.stellantis.statusbar.main",
+  "com.stellantis.notification.main",
+  "com.stellantis.vehicle.main",
+  "com.stellantis.appdrawer.main",
+  "com.stellantis.svc.main",
+  "com.amazon.ivihomelauncherwidgetpanel.main"
+]

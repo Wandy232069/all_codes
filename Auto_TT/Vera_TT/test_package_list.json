@@ -1,0 +1,23 @@
+[
+  "com.amazon.layout.launcher.main",
+  "com.stellantis.rcdhome.main",
+  "com.amazon.mediabluetooth.service.main",
+  "com.tomtom.navapp-automotive-unity.main",
+  "com.amazon.otad.main",
+  "com.amazon.aplext.reauth.10.service.main",
+  "com.amazon.carcontrolcapabilityagent.main",
+  "com.amazon.geolocationecapabilityagent.main",
+  "com.amazon.navigationcapabilityagent.main",
+  "com.amazon.automotivesearchservice.main",
+  "com.amazon.comms.contacts.service.main",
+  "com.amazon.comms.telephony.service.main",
+  "com.amazon.comms.messaging.service.main",
+  "com.amazon.pcc.main",
+  "com.amazon.messaging.controller.service.main",
+  "com.amazon.ui.theme.service.main",
+  "com.amazon.localskillendpointeca.main",
+  "com.stellantis.statusbar.main",
+  "com.stellantis.panelwidgets.main",
+  "com.stellantis.minimalhvac.main",
+  "com.amazon.alexamediabrowse.service.main"
+]

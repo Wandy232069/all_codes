@@ -1,0 +1,1 @@
+journalctl -f -b -o short-iso --no-pager > /data/local/tmp/qa/vera_journalctl.log &

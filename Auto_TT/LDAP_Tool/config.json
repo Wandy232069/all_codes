@@ -1,0 +1,9 @@
+{
+
+    "url":"ldap://10.57.48.108",
+    "port": "389",
+    "user":"fihtdc\\qaautotest",
+    "password":"MobileDrive#02",
+    "backup_password": "MobileDrive#01"
+
+}
